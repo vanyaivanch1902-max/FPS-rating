@@ -1,0 +1,6 @@
+{
+  "name": "FPS Meter",
+  "description": "PC-style floating game FPS meter overlay with real-time frame rates, min, max, avg, 1% low metrics, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
